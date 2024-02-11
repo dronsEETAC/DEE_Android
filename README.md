@@ -13,7 +13,7 @@ Each of the modules in this block has a GitHub repo where you can find the code 
 A tutorial (in Spanish) on developing native Android Apps focused in the requirements of the DEE:
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-video_tutorial_android-pink.svg)](https://www.youtube.com/playlist?list=PLyAtSQhMsD4r4nDM0pidyhop8XzSbyFNa)    
 The code developed in this tutorial can be found  here:
-[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-code_tutorial_android-blue.svg)](https://www.youtube.com/playlist?list=PLyAtSQhMsD4r4nDM0pidyhop8XzSbyFNa)  
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-code_tutorial_android-blue.svg)](https://github.com/dronsEETAC/tutorialAndroid)
 
 
 
